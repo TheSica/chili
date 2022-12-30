@@ -9,7 +9,7 @@ LGTM Has to be set up manually after template is created:
 [![Language grade: C++](https://img.shields.io/lgtm/grade/cpp/github/TheSica/chili)](https://lgtm.com/projects/g/TheSica/chili/context:cpp)
 
 ## About chili
-best poo
+
 
 
 ## More Details
